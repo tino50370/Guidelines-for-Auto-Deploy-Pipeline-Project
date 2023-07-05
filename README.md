@@ -30,9 +30,9 @@ In this project, you will prove your mastery of the following learning objective
 15. [Non-master runs](instructions/15-non-master-runs.md)
 16. [Monitoring with Prometheus](instructions/16-monitoring-with-prometheus.md)
 17. [Monitoring and Alerting](instructions/17-monitoring-and-alerting.md)
-18. [Finalizing Project Submission](instructions/18-finalizing-project-submission.md)
+<!-- 18. [Finalizing Project Submission](instructions/18-finalizing-project-submission.md) -->
 
-### Project Submission
+<!-- ### Project Submission
 
 For your submission, please submit the following:
 
@@ -59,7 +59,7 @@ For your submission, please submit the following:
 
 - Your presentation should be in PDF format named "presentation.pdf" and should be included in your code repository root folder.
 
-Before you submit your project, please check your work against the project rubric. If you haven’t satisfied each criterion in the rubric, then revise your work so that you have met all the requirements.
+Before you submit your project, please check your work against the project rubric. If you haven’t satisfied each criterion in the rubric, then revise your work so that you have met all the requirements. -->
 
 ## Built With
 
@@ -70,10 +70,10 @@ Before you submit your project, please check your work against the project rubri
 - [Ansible](https://www.ansible.com/) - Configuration management tool
 - [Prometheus](https://prometheus.io/) - Monitoring tool
 
-## License
+<!-- ## License
 
 [License](LICENSE.md)
 
 If you liked the guides and helped you achieve what you want, consider to support this effort by buying me a coffee :D
 
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/mahmoudahmedy)
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/mahmoudahmedy) -->
