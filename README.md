@@ -1,0 +1,1 @@
+# Guidelines-for-Auto-Deploy-Pipeline-Project
